@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Cloud Computing Basics (Cloud 101)",
+        "description": "Over the next few weeks, we will discuss the basics of Cloud computing: what it is, what it supports, and how it is delivered.We will delve into storage services, Cloud economics, levels of managed infrastructure, and Azure services. We will also explore different deployment models of Cloud computing, as well as several hosting scenarios. Last but not least, we will compare some of the cloud platforms and discuss the future of cloud computing.",
+        "img": "./image/freeCourse/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Python for Everybody Specialization",
+        "description": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+        "img": "./image/freeCourse/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Applied Data Science with Python Specialization",
+        "description": "Gain new insights into your data . Learn to apply data science methods and techniques, and acquire analysis skills.",
+        "img": "./image/freeCourse/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Introduction to Psychology",
+        
+        "description": "What are people most afraid of? What do our dreams mean? Are we natural-born racists? What makes us happy? What are the causes and cures of mental illness? This course tries to answer these questions and many others, providing a comprehensive overview of the scientific study of thought and behavior. It explores topics such as perception, communication, learning, memory, decision-making, persuasion, emotions, and social behavior.  We will look at how these aspects of the mind develop in children, how they differ across people, how they are wired-up in the brain, and how they break down due to illness and injury.",
+        "img": "./image/freeCourse/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Machine Learning",
+        
+        "description": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI.",
+        "img": "./image/freeCourse/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Game Theory",
+        
+        "description": "Popularized by movies such as A Beautiful Mind game theory is the mathematical modeling of strategic interaction among rational (and irrational) agents. Beyond what we call `games' in common language, such as chess, poker, soccer, etc., it includes the modeling of conflict among nations, political campaigns, competition among firms, and trading behavior in markets such as the NYSE. How could you begin to model keyword auctions, and peer to peer file-sharing networks, without accounting for the incentives of the people using them? The course will provide the basics: representing games and strategies. ",
+        "img": "./image/freeCourse/6.jpg"
+    }
+    
+   
+]

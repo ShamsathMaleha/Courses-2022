@@ -1,0 +1,22 @@
+.footer-link{
+    text-decoration: none;
+    color: rgb(199,21,133);
+    font-weight: bold
+ 
+}
+.subscribe-box{
+    
+    border: 0px;
+    padding: 8px;
+   border-radius: 20px;
+    background-color: rgb(199,21,133);
+    color: rgb(8, 8, 8);
+
+}
+.icon-color{
+    color: rgb(199,21,133);
+}
+.texts{
+    font-family: 'Times New Roman', Times, serif;
+}
+
